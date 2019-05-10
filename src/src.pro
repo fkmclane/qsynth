@@ -125,3 +125,6 @@ win32 {
 	DEFINES += _USE_MATH_DEFINES
 }
 
+macx {
+    ICON = images/qsynth.icns
+}
